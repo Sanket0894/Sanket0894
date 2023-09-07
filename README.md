@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Kelkar</h1>
 <h3 align="center">An aspiring Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [MyPortfolio](https://codebasics.io/portfolio/Sanket-Kelkar)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://codebasics.io/portfolio/Sanket-Kelkar)
 
 - 💬 Ask me about **SQL, Python , Power BI ,PySpark**
 
