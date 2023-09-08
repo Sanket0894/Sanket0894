@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codebasics.io/portfolio/Sanket-Kelkar)
 
-- 💬 Ask me about **SQL, Python , Power BI ,PySpark**
+- 💬 Ask me about **SQL, Python , Power BI , PySpark**
 
 - 📫 How to reach me **sanketkelkar1098@gmail.com**
 
